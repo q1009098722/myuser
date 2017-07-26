@@ -1,2 +1,9 @@
 tutorial-link
-"https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html"
+"https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html"       ======login register
+
+"https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html"
+ ============ password reset
+
+中文教程链接
+"http://zmrenwu.com/category/django-auth-example/"
+==========   django 用户认证系统

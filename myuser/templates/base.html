@@ -9,7 +9,7 @@
     <h1>welcome to geminic town</h1>
     {% if user.is_authenticated %}
       Hi, <font style="color: blue">{{ user.username }}</font>!welcome to geminic town.
-      <a href="{% url 'logout' %}">logout</a>
+      <a href="{% url 'logout' %}">logout</a>/<a href="{% url 'change' %}">change</a>
     {% else %}
       <a href="{% url 'login' %}">login</a>/ <a href="{% url 'register' %}">register</a>
     {% endif %}
